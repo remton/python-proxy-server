@@ -2,6 +2,7 @@
 Simple proxy server made in python. Routes requests to webserver and handles response. Will add files to cache as needed.
 
 Author: Remington Ward
+
 Date: 11/04/2022
 
 This project was made for a class CS 4390 Networking with professor Kresman
